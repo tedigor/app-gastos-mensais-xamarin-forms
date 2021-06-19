@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App_Gastos_Mensais.Detalhes">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout>
+                <Label x:Name="descricaoLabel"/>
+                <Label x:Name="precoLabel"/>
+            </StackLayout>
+            <StackLayout>
+                <Button Margin="0,10"
+                    HorizontalOptions="FillAndExpand"
+                    Text="Voltar"
+                    Clicked="Button_Clicked_Voltar"/>
+                <Button Margin="0,10"
+                    HorizontalOptions="FillAndExpand"
+                    Text="Remover"
+                    Clicked="Button_Clicked_Remover"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

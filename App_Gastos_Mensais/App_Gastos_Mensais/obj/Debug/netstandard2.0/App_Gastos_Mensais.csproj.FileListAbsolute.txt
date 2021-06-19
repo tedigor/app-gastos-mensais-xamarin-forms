@@ -1,0 +1,15 @@
+C:\Users\tedme\source\repos\App_Gastos_Mensais\App_Gastos_Mensais\App_Gastos_Mensais\bin\Debug\netstandard2.0\App_Gastos_Mensais.deps.json
+C:\Users\tedme\source\repos\App_Gastos_Mensais\App_Gastos_Mensais\App_Gastos_Mensais\bin\Debug\netstandard2.0\App_Gastos_Mensais.dll
+C:\Users\tedme\source\repos\App_Gastos_Mensais\App_Gastos_Mensais\App_Gastos_Mensais\bin\Debug\netstandard2.0\ref\App_Gastos_Mensais.dll
+C:\Users\tedme\source\repos\App_Gastos_Mensais\App_Gastos_Mensais\App_Gastos_Mensais\bin\Debug\netstandard2.0\App_Gastos_Mensais.pdb
+C:\Users\tedme\source\repos\App_Gastos_Mensais\App_Gastos_Mensais\App_Gastos_Mensais\obj\Debug\netstandard2.0\App_Gastos_Mensais.csprojAssemblyReference.cache
+C:\Users\tedme\source\repos\App_Gastos_Mensais\App_Gastos_Mensais\App_Gastos_Mensais\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tedme\source\repos\App_Gastos_Mensais\App_Gastos_Mensais\App_Gastos_Mensais\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\tedme\source\repos\App_Gastos_Mensais\App_Gastos_Mensais\App_Gastos_Mensais\obj\Debug\netstandard2.0\App_Gastos_Mensais.AssemblyInfoInputs.cache
+C:\Users\tedme\source\repos\App_Gastos_Mensais\App_Gastos_Mensais\App_Gastos_Mensais\obj\Debug\netstandard2.0\App_Gastos_Mensais.AssemblyInfo.cs
+C:\Users\tedme\source\repos\App_Gastos_Mensais\App_Gastos_Mensais\App_Gastos_Mensais\obj\Debug\netstandard2.0\App_Gastos_Mensais.csproj.CoreCompileInputs.cache
+C:\Users\tedme\source\repos\App_Gastos_Mensais\App_Gastos_Mensais\App_Gastos_Mensais\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\tedme\source\repos\App_Gastos_Mensais\App_Gastos_Mensais\App_Gastos_Mensais\obj\Debug\netstandard2.0\App_Gastos_Mensais.dll
+C:\Users\tedme\source\repos\App_Gastos_Mensais\App_Gastos_Mensais\App_Gastos_Mensais\obj\Debug\netstandard2.0\ref\App_Gastos_Mensais.dll
+C:\Users\tedme\source\repos\App_Gastos_Mensais\App_Gastos_Mensais\App_Gastos_Mensais\obj\Debug\netstandard2.0\App_Gastos_Mensais.pdb
+C:\Users\tedme\source\repos\App_Gastos_Mensais\App_Gastos_Mensais\App_Gastos_Mensais\obj\Debug\netstandard2.0\Detalhes.xaml.g.cs
